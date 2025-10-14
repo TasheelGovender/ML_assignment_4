@@ -26,3 +26,12 @@ build/
 
 # System files
 Thumbs.db
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
