@@ -1,0 +1,578 @@
+[
+  {
+    "max_depth": 1,
+    "n_estimators": 10,
+    "accuracy": 0.8888888888888888,
+    "f1_score": 0.884567901234568,
+    "std_dev": 0.1953166894646905,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        2,
+        10,
+        2
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 50,
+    "accuracy": 0.8888888888888888,
+    "f1_score": 0.887701804368471,
+    "std_dev": 0.18690076555774238,
+    "confusion_matrix": [
+      [
+        13,
+        1,
+        0
+      ],
+      [
+        1,
+        11,
+        2
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 100,
+    "accuracy": 0.8888888888888888,
+    "f1_score": 0.887701804368471,
+    "std_dev": 0.1749715991526412,
+    "confusion_matrix": [
+      [
+        13,
+        1,
+        0
+      ],
+      [
+        1,
+        11,
+        2
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 200,
+    "accuracy": 0.9166666666666666,
+    "f1_score": 0.9152320136228183,
+    "std_dev": 0.18045415728625652,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        1,
+        11,
+        2
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 10,
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9436036129748098,
+    "std_dev": 0.3420392308823274,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        1,
+        12,
+        1
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 50,
+    "accuracy": 0.9722222222222222,
+    "f1_score": 0.9721867461331064,
+    "std_dev": 0.3302316193344756,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        1,
+        13,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 100,
+    "accuracy": 0.9722222222222222,
+    "f1_score": 0.9721867461331064,
+    "std_dev": 0.3307582001834936,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        1,
+        13,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 200,
+    "accuracy": 0.9722222222222222,
+    "f1_score": 0.9721867461331064,
+    "std_dev": 0.3319869679588935,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        1,
+        13,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 10,
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9444444444444444,
+    "std_dev": 0.4211975871338859,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        13,
+        1
+      ],
+      [
+        0,
+        1,
+        7
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 50,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.412003992441528,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 100,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41519771679404,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 200,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.4140559284573893,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 10,
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9444444444444444,
+    "std_dev": 0.4211975871338859,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        13,
+        1
+      ],
+      [
+        0,
+        1,
+        7
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 50,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.4135035491808809,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 100,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41569664865584816,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 200,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41501282889586455,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 10,
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9444444444444444,
+    "std_dev": 0.4211975871338859,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        13,
+        1
+      ],
+      [
+        0,
+        1,
+        7
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 50,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.4135035491808809,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 100,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41569664865584816,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 200,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41501282889586455,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 10,
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9444444444444444,
+    "std_dev": 0.4211975871338859,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        13,
+        1
+      ],
+      [
+        0,
+        1,
+        7
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 50,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.4135035491808809,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 100,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41569664865584816,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 200,
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "std_dev": 0.41501282889586455,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ]
+  }
+]

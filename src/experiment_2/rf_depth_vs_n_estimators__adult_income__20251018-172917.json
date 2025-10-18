@@ -1,0 +1,1872 @@
+[
+  {
+    "max_depth": 1,
+    "n_estimators": 10,
+    "accuracy": 0.7235,
+    "f1_score": 0.7403165595680177,
+    "std_dev": 0.10316854558125195,
+    "confusion_matrix": [
+      [
+        995,
+        484
+      ],
+      [
+        69,
+        452
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 25,
+    "accuracy": 0.7545,
+    "f1_score": 0.7681442169155484,
+    "std_dev": 0.10464853905453844,
+    "confusion_matrix": [
+      [
+        1082,
+        397
+      ],
+      [
+        94,
+        427
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 50,
+    "accuracy": 0.752,
+    "f1_score": 0.7656027404650159,
+    "std_dev": 0.09501504557101452,
+    "confusion_matrix": [
+      [
+        1084,
+        395
+      ],
+      [
+        101,
+        420
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 75,
+    "accuracy": 0.7415,
+    "f1_score": 0.7559463533768674,
+    "std_dev": 0.092291154028323,
+    "confusion_matrix": [
+      [
+        1067,
+        412
+      ],
+      [
+        105,
+        416
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 100,
+    "accuracy": 0.7525,
+    "f1_score": 0.7664416534713551,
+    "std_dev": 0.08482158071238216,
+    "confusion_matrix": [
+      [
+        1075,
+        404
+      ],
+      [
+        91,
+        430
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 150,
+    "accuracy": 0.7405,
+    "f1_score": 0.7550797572786664,
+    "std_dev": 0.0849635222190632,
+    "confusion_matrix": [
+      [
+        1064,
+        415
+      ],
+      [
+        104,
+        417
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 200,
+    "accuracy": 0.739,
+    "f1_score": 0.7533157873442305,
+    "std_dev": 0.08712018494940109,
+    "confusion_matrix": [
+      [
+        1071,
+        408
+      ],
+      [
+        114,
+        407
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 300,
+    "accuracy": 0.739,
+    "f1_score": 0.7533157873442305,
+    "std_dev": 0.09139814566259799,
+    "confusion_matrix": [
+      [
+        1071,
+        408
+      ],
+      [
+        114,
+        407
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 400,
+    "accuracy": 0.739,
+    "f1_score": 0.7535661949326639,
+    "std_dev": 0.09486460409444522,
+    "confusion_matrix": [
+      [
+        1065,
+        414
+      ],
+      [
+        108,
+        413
+      ]
+    ]
+  },
+  {
+    "max_depth": 1,
+    "n_estimators": 500,
+    "accuracy": 0.7405,
+    "f1_score": 0.755117612427542,
+    "std_dev": 0.09259012579396625,
+    "confusion_matrix": [
+      [
+        1063,
+        416
+      ],
+      [
+        103,
+        418
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 10,
+    "accuracy": 0.751,
+    "f1_score": 0.7651487510562335,
+    "std_dev": 0.18164521576315135,
+    "confusion_matrix": [
+      [
+        1070,
+        409
+      ],
+      [
+        89,
+        432
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 25,
+    "accuracy": 0.758,
+    "f1_score": 0.7718788487691155,
+    "std_dev": 0.17492806752529066,
+    "confusion_matrix": [
+      [
+        1073,
+        406
+      ],
+      [
+        78,
+        443
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 50,
+    "accuracy": 0.7505,
+    "f1_score": 0.7646253749179116,
+    "std_dev": 0.16133545915283865,
+    "confusion_matrix": [
+      [
+        1071,
+        408
+      ],
+      [
+        91,
+        430
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 75,
+    "accuracy": 0.749,
+    "f1_score": 0.7634267276382177,
+    "std_dev": 0.16257625684139437,
+    "confusion_matrix": [
+      [
+        1063,
+        416
+      ],
+      [
+        86,
+        435
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 100,
+    "accuracy": 0.7435,
+    "f1_score": 0.7584108022217488,
+    "std_dev": 0.1633529496800316,
+    "confusion_matrix": [
+      [
+        1052,
+        427
+      ],
+      [
+        86,
+        435
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 150,
+    "accuracy": 0.745,
+    "f1_score": 0.7596566356483886,
+    "std_dev": 0.1576707234784473,
+    "confusion_matrix": [
+      [
+        1059,
+        420
+      ],
+      [
+        90,
+        431
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 200,
+    "accuracy": 0.7445,
+    "f1_score": 0.7590698097601322,
+    "std_dev": 0.15736616817191423,
+    "confusion_matrix": [
+      [
+        1062,
+        417
+      ],
+      [
+        94,
+        427
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 300,
+    "accuracy": 0.7415,
+    "f1_score": 0.756373921052347,
+    "std_dev": 0.1605717611433121,
+    "confusion_matrix": [
+      [
+        1055,
+        424
+      ],
+      [
+        93,
+        428
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 400,
+    "accuracy": 0.741,
+    "f1_score": 0.7558538092198385,
+    "std_dev": 0.16299498985343436,
+    "confusion_matrix": [
+      [
+        1056,
+        423
+      ],
+      [
+        95,
+        426
+      ]
+    ]
+  },
+  {
+    "max_depth": 2,
+    "n_estimators": 500,
+    "accuracy": 0.7405,
+    "f1_score": 0.7553989569296511,
+    "std_dev": 0.16012181686717752,
+    "confusion_matrix": [
+      [
+        1055,
+        424
+      ],
+      [
+        95,
+        426
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 10,
+    "accuracy": 0.7685,
+    "f1_score": 0.7812169793488485,
+    "std_dev": 0.28167866868390534,
+    "confusion_matrix": [
+      [
+        1100,
+        379
+      ],
+      [
+        84,
+        437
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 25,
+    "accuracy": 0.768,
+    "f1_score": 0.7809119946790345,
+    "std_dev": 0.27066964522202624,
+    "confusion_matrix": [
+      [
+        1095,
+        384
+      ],
+      [
+        80,
+        441
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 50,
+    "accuracy": 0.7725,
+    "f1_score": 0.7854731182795698,
+    "std_dev": 0.2643830849022704,
+    "confusion_matrix": [
+      [
+        1090,
+        389
+      ],
+      [
+        66,
+        455
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 75,
+    "accuracy": 0.7705,
+    "f1_score": 0.7835871676710385,
+    "std_dev": 0.2634484567852611,
+    "confusion_matrix": [
+      [
+        1088,
+        391
+      ],
+      [
+        68,
+        453
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 100,
+    "accuracy": 0.7665,
+    "f1_score": 0.7800200126772133,
+    "std_dev": 0.2673614154704138,
+    "confusion_matrix": [
+      [
+        1077,
+        402
+      ],
+      [
+        65,
+        456
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 150,
+    "accuracy": 0.7645,
+    "f1_score": 0.7780505160844399,
+    "std_dev": 0.26253348717344643,
+    "confusion_matrix": [
+      [
+        1078,
+        401
+      ],
+      [
+        70,
+        451
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 200,
+    "accuracy": 0.7635,
+    "f1_score": 0.7771371428571429,
+    "std_dev": 0.2612145358011753,
+    "confusion_matrix": [
+      [
+        1076,
+        403
+      ],
+      [
+        70,
+        451
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 300,
+    "accuracy": 0.764,
+    "f1_score": 0.7778091127098321,
+    "std_dev": 0.26453993240894813,
+    "confusion_matrix": [
+      [
+        1069,
+        410
+      ],
+      [
+        62,
+        459
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 400,
+    "accuracy": 0.7655,
+    "f1_score": 0.7792089570099807,
+    "std_dev": 0.2648847182631947,
+    "confusion_matrix": [
+      [
+        1071,
+        408
+      ],
+      [
+        61,
+        460
+      ]
+    ]
+  },
+  {
+    "max_depth": 5,
+    "n_estimators": 500,
+    "accuracy": 0.768,
+    "f1_score": 0.7814734151521415,
+    "std_dev": 0.2640743631257891,
+    "confusion_matrix": [
+      [
+        1077,
+        402
+      ],
+      [
+        62,
+        459
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 10,
+    "accuracy": 0.8165,
+    "f1_score": 0.8248528007713873,
+    "std_dev": 0.33719489207026615,
+    "confusion_matrix": [
+      [
+        1191,
+        288
+      ],
+      [
+        79,
+        442
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 25,
+    "accuracy": 0.8135,
+    "f1_score": 0.8224762049600425,
+    "std_dev": 0.33350361788022914,
+    "confusion_matrix": [
+      [
+        1178,
+        301
+      ],
+      [
+        72,
+        449
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 50,
+    "accuracy": 0.814,
+    "f1_score": 0.822835371328921,
+    "std_dev": 0.32769169599310943,
+    "confusion_matrix": [
+      [
+        1181,
+        298
+      ],
+      [
+        74,
+        447
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 75,
+    "accuracy": 0.819,
+    "f1_score": 0.8275048139757524,
+    "std_dev": 0.32827012313421683,
+    "confusion_matrix": [
+      [
+        1188,
+        291
+      ],
+      [
+        71,
+        450
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 100,
+    "accuracy": 0.818,
+    "f1_score": 0.8265988230068844,
+    "std_dev": 0.3292036914606044,
+    "confusion_matrix": [
+      [
+        1186,
+        293
+      ],
+      [
+        71,
+        450
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 150,
+    "accuracy": 0.818,
+    "f1_score": 0.8265988230068844,
+    "std_dev": 0.32709224047139734,
+    "confusion_matrix": [
+      [
+        1186,
+        293
+      ],
+      [
+        71,
+        450
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 200,
+    "accuracy": 0.8185,
+    "f1_score": 0.8270984659407042,
+    "std_dev": 0.32691360725846846,
+    "confusion_matrix": [
+      [
+        1186,
+        293
+      ],
+      [
+        70,
+        451
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 300,
+    "accuracy": 0.821,
+    "f1_score": 0.8294108381307165,
+    "std_dev": 0.3273933993711539,
+    "confusion_matrix": [
+      [
+        1190,
+        289
+      ],
+      [
+        69,
+        452
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 400,
+    "accuracy": 0.82,
+    "f1_score": 0.8285043304463691,
+    "std_dev": 0.3281350499672102,
+    "confusion_matrix": [
+      [
+        1188,
+        291
+      ],
+      [
+        69,
+        452
+      ]
+    ]
+  },
+  {
+    "max_depth": 10,
+    "n_estimators": 500,
+    "accuracy": 0.8195,
+    "f1_score": 0.8280046964980354,
+    "std_dev": 0.32787101113943745,
+    "confusion_matrix": [
+      [
+        1188,
+        291
+      ],
+      [
+        70,
+        451
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 10,
+    "accuracy": 0.83,
+    "f1_score": 0.8356520880306797,
+    "std_dev": 0.3676010954073685,
+    "confusion_matrix": [
+      [
+        1242,
+        237
+      ],
+      [
+        103,
+        418
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 25,
+    "accuracy": 0.8345,
+    "f1_score": 0.8399707550367163,
+    "std_dev": 0.361563654127566,
+    "confusion_matrix": [
+      [
+        1247,
+        232
+      ],
+      [
+        99,
+        422
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 50,
+    "accuracy": 0.8345,
+    "f1_score": 0.8399069329335832,
+    "std_dev": 0.3593841665842905,
+    "confusion_matrix": [
+      [
+        1248,
+        231
+      ],
+      [
+        100,
+        421
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 75,
+    "accuracy": 0.8365,
+    "f1_score": 0.8419046431933723,
+    "std_dev": 0.35850499509204153,
+    "confusion_matrix": [
+      [
+        1249,
+        230
+      ],
+      [
+        97,
+        424
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 100,
+    "accuracy": 0.832,
+    "f1_score": 0.837713090515687,
+    "std_dev": 0.35893879677734114,
+    "confusion_matrix": [
+      [
+        1242,
+        237
+      ],
+      [
+        99,
+        422
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 150,
+    "accuracy": 0.837,
+    "f1_score": 0.8426041593862995,
+    "std_dev": 0.3577534329839978,
+    "confusion_matrix": [
+      [
+        1246,
+        233
+      ],
+      [
+        93,
+        428
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 200,
+    "accuracy": 0.8355,
+    "f1_score": 0.8411249624914283,
+    "std_dev": 0.35727141043552013,
+    "confusion_matrix": [
+      [
+        1245,
+        234
+      ],
+      [
+        95,
+        426
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 300,
+    "accuracy": 0.8355,
+    "f1_score": 0.8409376991150443,
+    "std_dev": 0.3575942097109247,
+    "confusion_matrix": [
+      [
+        1248,
+        231
+      ],
+      [
+        98,
+        423
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 400,
+    "accuracy": 0.835,
+    "f1_score": 0.8405487143821466,
+    "std_dev": 0.3577236960798277,
+    "confusion_matrix": [
+      [
+        1246,
+        233
+      ],
+      [
+        97,
+        424
+      ]
+    ]
+  },
+  {
+    "max_depth": 15,
+    "n_estimators": 500,
+    "accuracy": 0.8365,
+    "f1_score": 0.8419671881447184,
+    "std_dev": 0.35773949957307727,
+    "confusion_matrix": [
+      [
+        1248,
+        231
+      ],
+      [
+        96,
+        425
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 10,
+    "accuracy": 0.8405,
+    "f1_score": 0.8438562474738969,
+    "std_dev": 0.3840231208165249,
+    "confusion_matrix": [
+      [
+        1281,
+        198
+      ],
+      [
+        121,
+        400
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 25,
+    "accuracy": 0.8475,
+    "f1_score": 0.8500342299123472,
+    "std_dev": 0.37588032259253756,
+    "confusion_matrix": [
+      [
+        1297,
+        182
+      ],
+      [
+        123,
+        398
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 50,
+    "accuracy": 0.845,
+    "f1_score": 0.8474571208349496,
+    "std_dev": 0.37425026326366684,
+    "confusion_matrix": [
+      [
+        1296,
+        183
+      ],
+      [
+        127,
+        394
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 75,
+    "accuracy": 0.847,
+    "f1_score": 0.8493466399227846,
+    "std_dev": 0.37415350377717704,
+    "confusion_matrix": [
+      [
+        1299,
+        180
+      ],
+      [
+        126,
+        395
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 100,
+    "accuracy": 0.8485,
+    "f1_score": 0.850546250424674,
+    "std_dev": 0.37436882990315185,
+    "confusion_matrix": [
+      [
+        1304,
+        175
+      ],
+      [
+        128,
+        393
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 150,
+    "accuracy": 0.845,
+    "f1_score": 0.8471344935212334,
+    "std_dev": 0.3735014942621568,
+    "confusion_matrix": [
+      [
+        1300,
+        179
+      ],
+      [
+        131,
+        390
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 200,
+    "accuracy": 0.844,
+    "f1_score": 0.8461482644471768,
+    "std_dev": 0.3729487307598889,
+    "confusion_matrix": [
+      [
+        1299,
+        180
+      ],
+      [
+        132,
+        389
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 300,
+    "accuracy": 0.8435,
+    "f1_score": 0.8459406815506293,
+    "std_dev": 0.3727317900408154,
+    "confusion_matrix": [
+      [
+        1295,
+        184
+      ],
+      [
+        129,
+        392
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 400,
+    "accuracy": 0.8465,
+    "f1_score": 0.8488938953228217,
+    "std_dev": 0.3727577869671971,
+    "confusion_matrix": [
+      [
+        1298,
+        181
+      ],
+      [
+        126,
+        395
+      ]
+    ]
+  },
+  {
+    "max_depth": 20,
+    "n_estimators": 500,
+    "accuracy": 0.8435,
+    "f1_score": 0.8461798631216023,
+    "std_dev": 0.3724504333096282,
+    "confusion_matrix": [
+      [
+        1292,
+        187
+      ],
+      [
+        126,
+        395
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 10,
+    "accuracy": 0.841,
+    "f1_score": 0.8404975083056478,
+    "std_dev": 0.391019323940949,
+    "confusion_matrix": [
+      [
+        1325,
+        154
+      ],
+      [
+        164,
+        357
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 25,
+    "accuracy": 0.8445,
+    "f1_score": 0.8430290399562963,
+    "std_dev": 0.3825928312345647,
+    "confusion_matrix": [
+      [
+        1338,
+        141
+      ],
+      [
+        170,
+        351
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 50,
+    "accuracy": 0.8525,
+    "f1_score": 0.8515029940237885,
+    "std_dev": 0.3809584040599133,
+    "confusion_matrix": [
+      [
+        1342,
+        137
+      ],
+      [
+        158,
+        363
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 75,
+    "accuracy": 0.8525,
+    "f1_score": 0.851890972958881,
+    "std_dev": 0.38054658885694886,
+    "confusion_matrix": [
+      [
+        1338,
+        141
+      ],
+      [
+        154,
+        367
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 100,
+    "accuracy": 0.856,
+    "f1_score": 0.8557287605708658,
+    "std_dev": 0.3801806758683913,
+    "confusion_matrix": [
+      [
+        1338,
+        141
+      ],
+      [
+        147,
+        374
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 150,
+    "accuracy": 0.8555,
+    "f1_score": 0.8545232721114402,
+    "std_dev": 0.37976535114675636,
+    "confusion_matrix": [
+      [
+        1345,
+        134
+      ],
+      [
+        155,
+        366
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 200,
+    "accuracy": 0.8545,
+    "f1_score": 0.8536131366872316,
+    "std_dev": 0.379364503682526,
+    "confusion_matrix": [
+      [
+        1343,
+        136
+      ],
+      [
+        155,
+        366
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 300,
+    "accuracy": 0.8525,
+    "f1_score": 0.8520811648364341,
+    "std_dev": 0.37936692361360724,
+    "confusion_matrix": [
+      [
+        1336,
+        143
+      ],
+      [
+        152,
+        369
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 400,
+    "accuracy": 0.8495,
+    "f1_score": 0.8492641573296631,
+    "std_dev": 0.37953062869201426,
+    "confusion_matrix": [
+      [
+        1331,
+        148
+      ],
+      [
+        153,
+        368
+      ]
+    ]
+  },
+  {
+    "max_depth": 25,
+    "n_estimators": 500,
+    "accuracy": 0.8515,
+    "f1_score": 0.8513608391281072,
+    "std_dev": 0.3797866776252778,
+    "confusion_matrix": [
+      [
+        1332,
+        147
+      ],
+      [
+        150,
+        371
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 10,
+    "accuracy": 0.831,
+    "f1_score": 0.8267357558436257,
+    "std_dev": 0.3929363689517331,
+    "confusion_matrix": [
+      [
+        1346,
+        133
+      ],
+      [
+        205,
+        316
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 25,
+    "accuracy": 0.843,
+    "f1_score": 0.8402329138561697,
+    "std_dev": 0.38641059528195837,
+    "confusion_matrix": [
+      [
+        1348,
+        131
+      ],
+      [
+        183,
+        338
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 50,
+    "accuracy": 0.8495,
+    "f1_score": 0.8461116147746159,
+    "std_dev": 0.3850032129284302,
+    "confusion_matrix": [
+      [
+        1361,
+        118
+      ],
+      [
+        183,
+        338
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 75,
+    "accuracy": 0.853,
+    "f1_score": 0.8499703975738239,
+    "std_dev": 0.3843793920299334,
+    "confusion_matrix": [
+      [
+        1362,
+        117
+      ],
+      [
+        177,
+        344
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 100,
+    "accuracy": 0.853,
+    "f1_score": 0.8500811444652908,
+    "std_dev": 0.38448345643304016,
+    "confusion_matrix": [
+      [
+        1361,
+        118
+      ],
+      [
+        176,
+        345
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 150,
+    "accuracy": 0.8525,
+    "f1_score": 0.8498459322893912,
+    "std_dev": 0.38424645949123065,
+    "confusion_matrix": [
+      [
+        1358,
+        121
+      ],
+      [
+        174,
+        347
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 200,
+    "accuracy": 0.8545,
+    "f1_score": 0.8519891053378713,
+    "std_dev": 0.3836729385752717,
+    "confusion_matrix": [
+      [
+        1359,
+        120
+      ],
+      [
+        171,
+        350
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 300,
+    "accuracy": 0.8535,
+    "f1_score": 0.8509718483298843,
+    "std_dev": 0.3839143994789362,
+    "confusion_matrix": [
+      [
+        1358,
+        121
+      ],
+      [
+        172,
+        349
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 400,
+    "accuracy": 0.8535,
+    "f1_score": 0.8506459933833371,
+    "std_dev": 0.3839816916039949,
+    "confusion_matrix": [
+      [
+        1361,
+        118
+      ],
+      [
+        175,
+        346
+      ]
+    ]
+  },
+  {
+    "max_depth": 30,
+    "n_estimators": 500,
+    "accuracy": 0.853,
+    "f1_score": 0.8499703975738239,
+    "std_dev": 0.383701740748037,
+    "confusion_matrix": [
+      [
+        1362,
+        117
+      ],
+      [
+        177,
+        344
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 10,
+    "accuracy": 0.852,
+    "f1_score": 0.8453885351752711,
+    "std_dev": 0.39962994062790197,
+    "confusion_matrix": [
+      [
+        1390,
+        89
+      ],
+      [
+        207,
+        314
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 25,
+    "accuracy": 0.8455,
+    "f1_score": 0.8405420765475202,
+    "std_dev": 0.3905297533189669,
+    "confusion_matrix": [
+      [
+        1369,
+        110
+      ],
+      [
+        199,
+        322
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 50,
+    "accuracy": 0.852,
+    "f1_score": 0.8465642559490334,
+    "std_dev": 0.38832726702257586,
+    "confusion_matrix": [
+      [
+        1381,
+        98
+      ],
+      [
+        198,
+        323
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 75,
+    "accuracy": 0.857,
+    "f1_score": 0.8523517666909284,
+    "std_dev": 0.3879759697548002,
+    "confusion_matrix": [
+      [
+        1381,
+        98
+      ],
+      [
+        188,
+        333
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 100,
+    "accuracy": 0.8545,
+    "f1_score": 0.8494657104978537,
+    "std_dev": 0.38806861789020025,
+    "confusion_matrix": [
+      [
+        1381,
+        98
+      ],
+      [
+        193,
+        328
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 150,
+    "accuracy": 0.8515,
+    "f1_score": 0.8463619107143042,
+    "std_dev": 0.38777703853084944,
+    "confusion_matrix": [
+      [
+        1378,
+        101
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 200,
+    "accuracy": 0.853,
+    "f1_score": 0.8474744680851064,
+    "std_dev": 0.3870415300852379,
+    "confusion_matrix": [
+      [
+        1383,
+        96
+      ],
+      [
+        198,
+        323
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 300,
+    "accuracy": 0.853,
+    "f1_score": 0.8478516387893187,
+    "std_dev": 0.38733160298411634,
+    "confusion_matrix": [
+      [
+        1380,
+        99
+      ],
+      [
+        195,
+        326
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 400,
+    "accuracy": 0.8535,
+    "f1_score": 0.8485544469000644,
+    "std_dev": 0.38733318469676353,
+    "confusion_matrix": [
+      [
+        1379,
+        100
+      ],
+      [
+        193,
+        328
+      ]
+    ]
+  },
+  {
+    "max_depth": 40,
+    "n_estimators": 500,
+    "accuracy": 0.854,
+    "f1_score": 0.8488866616546974,
+    "std_dev": 0.3875132931058938,
+    "confusion_matrix": [
+      [
+        1381,
+        98
+      ],
+      [
+        194,
+        327
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 10,
+    "accuracy": 0.8405,
+    "f1_score": 0.832564532181203,
+    "std_dev": 0.40251120351765246,
+    "confusion_matrix": [
+      [
+        1384,
+        95
+      ],
+      [
+        224,
+        297
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 25,
+    "accuracy": 0.846,
+    "f1_score": 0.8412486488269674,
+    "std_dev": 0.39257538682923443,
+    "confusion_matrix": [
+      [
+        1368,
+        111
+      ],
+      [
+        197,
+        324
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 50,
+    "accuracy": 0.851,
+    "f1_score": 0.8450097051169769,
+    "std_dev": 0.3899101718962718,
+    "confusion_matrix": [
+      [
+        1384,
+        95
+      ],
+      [
+        203,
+        318
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 75,
+    "accuracy": 0.8505,
+    "f1_score": 0.8454531727751512,
+    "std_dev": 0.38960641028710635,
+    "confusion_matrix": [
+      [
+        1376,
+        103
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 100,
+    "accuracy": 0.8535,
+    "f1_score": 0.848182093770846,
+    "std_dev": 0.3892629049022694,
+    "confusion_matrix": [
+      [
+        1382,
+        97
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 150,
+    "accuracy": 0.854,
+    "f1_score": 0.8486377119497222,
+    "std_dev": 0.3891590337253897,
+    "confusion_matrix": [
+      [
+        1383,
+        96
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 200,
+    "accuracy": 0.8535,
+    "f1_score": 0.8479299215559797,
+    "std_dev": 0.38852230636567636,
+    "confusion_matrix": [
+      [
+        1384,
+        95
+      ],
+      [
+        198,
+        323
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 300,
+    "accuracy": 0.854,
+    "f1_score": 0.8486377119497222,
+    "std_dev": 0.3886099690080366,
+    "confusion_matrix": [
+      [
+        1383,
+        96
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 400,
+    "accuracy": 0.853,
+    "f1_score": 0.8476009839493779,
+    "std_dev": 0.3887279827694683,
+    "confusion_matrix": [
+      [
+        1382,
+        97
+      ],
+      [
+        197,
+        324
+      ]
+    ]
+  },
+  {
+    "max_depth": 50,
+    "n_estimators": 500,
+    "accuracy": 0.8535,
+    "f1_score": 0.848182093770846,
+    "std_dev": 0.3887161112472918,
+    "confusion_matrix": [
+      [
+        1382,
+        97
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 10,
+    "accuracy": 0.841,
+    "f1_score": 0.8337523436211642,
+    "std_dev": 0.40175241131821476,
+    "confusion_matrix": [
+      [
+        1380,
+        99
+      ],
+      [
+        219,
+        302
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 25,
+    "accuracy": 0.847,
+    "f1_score": 0.8421535078482141,
+    "std_dev": 0.39183465900810766,
+    "confusion_matrix": [
+      [
+        1370,
+        109
+      ],
+      [
+        197,
+        324
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 50,
+    "accuracy": 0.8505,
+    "f1_score": 0.8446859713361983,
+    "std_dev": 0.38947117993504987,
+    "confusion_matrix": [
+      [
+        1382,
+        97
+      ],
+      [
+        202,
+        319
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 75,
+    "accuracy": 0.8525,
+    "f1_score": 0.8476440863029682,
+    "std_dev": 0.389490607503356,
+    "confusion_matrix": [
+      [
+        1377,
+        102
+      ],
+      [
+        193,
+        328
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 100,
+    "accuracy": 0.8555,
+    "f1_score": 0.8501307196513208,
+    "std_dev": 0.3891926258294214,
+    "confusion_matrix": [
+      [
+        1385,
+        94
+      ],
+      [
+        195,
+        326
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 150,
+    "accuracy": 0.8515,
+    "f1_score": 0.846486930816789,
+    "std_dev": 0.3888542714751176,
+    "confusion_matrix": [
+      [
+        1377,
+        102
+      ],
+      [
+        195,
+        326
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 200,
+    "accuracy": 0.853,
+    "f1_score": 0.8473471538454039,
+    "std_dev": 0.3882983711013993,
+    "confusion_matrix": [
+      [
+        1384,
+        95
+      ],
+      [
+        199,
+        322
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 300,
+    "accuracy": 0.8545,
+    "f1_score": 0.849342441482867,
+    "std_dev": 0.3884686245016735,
+    "confusion_matrix": [
+      [
+        1382,
+        97
+      ],
+      [
+        194,
+        327
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 400,
+    "accuracy": 0.853,
+    "f1_score": 0.8480991544434857,
+    "std_dev": 0.3885375102548015,
+    "confusion_matrix": [
+      [
+        1378,
+        101
+      ],
+      [
+        193,
+        328
+      ]
+    ]
+  },
+  {
+    "max_depth": "None",
+    "n_estimators": 500,
+    "accuracy": 0.8525,
+    "f1_score": 0.8472715472077174,
+    "std_dev": 0.38866336333644824,
+    "confusion_matrix": [
+      [
+        1380,
+        99
+      ],
+      [
+        196,
+        325
+      ]
+    ]
+  }
+]
