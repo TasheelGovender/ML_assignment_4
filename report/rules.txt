@@ -1,0 +1,180 @@
+Writing rules
+Find in this document some writing rules which you have to apply in your research assignments,
+thesis, dissertations, and articles. Make sure that you apply these writing rules. Failure to do so
+may result in me stopping to read your document.
+Before I provide a list of the writing rules, note that when you submit documents to me, submit as
+pdf, and make sure that all hyperlinks are deactivated. If hyperlinks are not deactivated, I am
+going to return the document to you. Before you submit something for me to read, get someone to
+read your document for language & grammar before sending it to me. Note that if the linguistic
+quality of your document is not good, I will return the document to you without reading it.
+I will create a DropBox folder for you for the purposes of your studies under my supervision. I will
+upload any material that you should read to your dropbox folder. You will also upload your reports,
+articles, chapters, thesis, dissertation, or research assignment to your dropbox folder using the
+following file name convention: nameSurnameFilenameVx.pdf, where Filename identifies the
+document and x refers to the version number. When you have uploaded a document, send me an
+email to inform me. I will provide my feedback as annotations to this pdf document, and upload a
+file named nameSurnameFilenameVxFeedback.pdf. Once I have uploaded feedback, I will send you
+an email.
+My annotated feedback will likely contain references to the writing rules below. I will use the
+notation WRx, meaning writing rule number x. You will then have to consult this document for the
+correction to be made. If there are many occurrences of the same error, note that I am not going to
+mark all occurrences and expect you to ensure that all such occurrences are attended to.
+Note: You have to regularly download this document, because it will be continuously revised.
+The writing rules are provided below in no particular order:
+1. You are strongly advised to make use of LaTeX to typeset your document. This is not a
+requirement. However, from experience, a document typesetted using LaTeX looks much
+more professional, specifically when the document contains math, figures, and tables.
+2. 3. 4. Use a spell and grammar checker.
+Write in the third person.
+On the use of tenses:
+a) By default, write in present tense.
+b) The empirical process followed and discussion of observations are done in past tense.
+c) Conclusions are written in past tense
+d) Do not use present continuous tense, e.g. “Optimising of the control parameters...”;
+rather, “Optimisation of the control parameters...”.
+5. Avoid the use of pronouns, such as “it, its, this, them, they, which”. These pronouns
+introduce ambiguities. Rather be very specific in what you refer to.
+6. Do not use uncertain terms such as “some”, “certain”. These terms indicate that you are not
+sure yourself. Be very specific.
+7. 8. 9. Avoid “may be”, “can be”. These terms give the impression that you are not sure.
+Do not use “etc”. Be complete and specific.
+Avoid footnotes and clarifications in parentheses. These break reading flow.
+10. When you do provide text in parentheses, the reader must know why that text is given. As an
+example, do not just give a figure number or table number in parentheses, such as “The
+algorithm has the highest rank (Table 2).” Rather, “The algorithm has the highest rank (refer
+to Table 2).” Even better is to not use parentheses here, and write as “The algorithm has the
+highest rank as indicated in Table 2.
+11. Make sure that each concept is defined before it is used.
+12. Note the meaning of “it’s” as “it is”. Note the difference between the pronoun “its” and “it
+is”.
+13. Do not use contractions such as first “don’t”, “we’re”.
+14. Avoid using apostrophes to indicate position, such as “the algorithm’s performance...” .
+Here, rather write as “the performance of the algorithm...”
+15. Note the difference between “to” and “too”.
+16. Also, note the difference between “amount” and “number of”. The latter refers to countable
+objects, the former to non-countable objects.
+17. Be careful in the use of conjunctions such as “since”, “because”, “as”. Refer to
+https://www.vedantu.com/english/use-of-conjunctions
+18. Convention is that single-digit numbers are given in words, and multi-digit numbers in
+numeric form.
+19. About sentences:
+a) Write in short, flowing sentences. Long sentences become difficult to follow. A sentence
+becomes too long if there are more than one comma or conjunctive in the sentence. One
+sentence should convey one fact.
+b) Write in full sentences.
+c) d) e) f) Do not start a sentence with a symbol, or a number.
+Each sentence should flow from the previous sentence.
+Do not start a sentence with a citation label.
+Avoid starting sentences with “In this section, optimisation is discussed”. Rather, “This
+section discusses optimisation”, or “Optimisation is discussed in this section.”
+g) Do not start a sentence with “And” or “But”.
+h) Incomplete sentence: Write in complete sentences – each sentence must have a verb.
+20. About paragraphs:
+a) Each paragraph should flow from the previous paragraph.
+b) Do not write in long paragraphs. A paragraph is like a function in programming: The
+function should have one goal, one focus. However, avoid too short paragraphs. Both
+make reading difficult.
+21. With reference to equations, the following:
+a) Equations should flow as part of a sentence. It must flow as part of the narrative.
+b) All symbols used in an equation have to be defined. However, if a symbol has already
+been defined, do not define it again.
+c) Do not make forward references to equations.
+22. With reference to acronyms, please note the following:
+a) Each acronym has to be defined.
+b) List acronyms and their definitions in an appendix in alphabetical order.
+c) Do not use acronyms in any heading or caption.
+d) Once an acronym has been defined, use the acronym. I advise that you use the LaTeX
+glossaries package.
+e) In the conclusions, define each acronym again when first used.
+23. While I do not prescribe a specific bibliography and citation format, please note the
+following:
+a) References to be sorted alphabetically based on the surname of the first author.
+b) Each reference in the bibliography should be referred to in the text.
+c) Do not use names of authors, because names are not always available. Use only initials
+and surnames.
+d) Do not refer to any pre-prints, e.g. documents available at arXiv, ResearchSquare, or any
+other medium. Find where it was published. If not published in a book, proceedings, or
+journal, then you cannot include it in your bibliography.
+Do not refer to blogs.
+e) 
+f) References to websites for code libraries and data archives are best done as a footnote
+and not as part of the bibliography.
+g) h) i) Make sure that references are complete.
+Make sure that formatting of references are consistent.
+For an article published in the proceedings of a conference, give the source (i.e.
+booktitle) as “Proceedings of the XXX”, where XXX is the name of the conference.
+j) Do not give the ac16ronym of the conference or journal article.
+k) Write conference names out in full.acronym
+l) Write journal nam45es out in full.
+24. Citations to references in the bibliography:
+a) “Engelbrecht showed that...” (for one author)
+b) “Erwin and Engelbrecht showed that...” (for two authors)
+c) “Harrison et al. showed that...” (for more that two authors)
+d) Note the use of past tense above.
+e) When using numerical citations to references, make sure that citations are sorted.
+25. With reference to figures:
+a) Figure captions are given below the figure.
+b) Font and size of text use in a figure should be the same as for the main text.
+c) Figure captions serve only as a label, and should not contain detailed explanations.
+d) Symbols used in a figure may be defined in the caption.
+e) Each figure should be referred to in the main text, introduced, and discussed.
+f) If you have multiple sub-figures in one figure environment, do not add a heading for
+each figure. Use the LaTeX subfigure environment and for each sub-figure, provide a
+sub-caption.
+g) h) Place a figure after the first reference to the figure.
+Avoid copying and pasting images and illustrations from literature. Provide your own
+diagrams, reproduction of these images.
+i) If you do use figures from other source, then you have to cite these sources.
+26. With reference to tables, the following:
+a) Table captions are given above the table
+b) Table captions serve only as a label, and should not contain detailed explanations.
+c) Symbols used in a table may be defined in the caption.
+d) Place a table after the first reference to the table.
+27. With reference to algorithms, the following:figure
+a) Use the LaTeX algorithms package.
+b) Algorithm captions at the top of the algorithm.
+c) Algorithm captions serve only as a label, and should not contain detailed explanations.
+d) Symbols used in an algorithm may be defined in the caption.
+e) Place an algorithm after the first reference to the algorithm
+f) Do not use any programming-based statements, but rather give pseudocode statements in
+English text.
+28. About chapters/sections, the following:
+a) Chapter/section headings serve only as a label, and should not contain a verb, and not be
+a question.
+b) Do not have chapters and main sections with detailed text followed by subsections. Each
+chapter and main section to start with the purpose of the main section, some context, and
+an outline of the remainder of the section. The main text is then organized in appropriate,
+flowing subsections.
+c) d) A chapter/main section should not have only one subsection.
+Do not use forward references to sections/chapters. The only place where forward
+references to sections/chapters are allowed is in the outline of the section/chapter.
+e) Do not start a chapter with a figure, table or algorithm. Start with text.
+f) g) End each chapter with a chapter summary.
+Start each chapter with a short paragraph stating the context and purpose of the chapter,
+followed by an outline of the chapter.
+29. With reference to symbols:
+a) b) Make sure that all mathematical symbols are given in math mode.
+Do not overload the meaning of symbols. Each symbol must have one unique meaning,
+and each meaning must have only one symbol associated with it.
+c) d) Provide all symbols are their definitions in an appendix in alphabetical order.
+Give vectors in bold, lower case. While the arrow notation is correct, it may become
+cluttered.
+e) f) g) h) i) j) k) Give matrices in bold, upper case.
+Sets and sequences are in upper case, not bold.
+Functions are in lower case, not bold.
+Scalars are in lower case, not bold.
+Superscripts and subscripts of vectors and matrices are not in bold.
+Avoid multi-character symbols for math and indices.
+Note that f(x) is the value of the function, f, at point x; f(x) is not the function, the
+function is f.
+l) Only defined symbols not yet defined
+30. Provide all Latin words, such as “et al”, in italics.
+31. You may use either American or British English, though use consistently.
+32. Singular versus plural forms:
+a) criterion is singular; criteria is plural.
+b) optima, minima, maxima are plural; optimum, minimum, maximum are singular
+33. In normal text, do not capitalize the first character of each word when you define acronyms.
+Capitalization is used only when a word refers to a name.
+34. Do not make any statements/claims without providing supporting evidence, which can be in
+the form of a citation to one of your references or empirical evidence that you provide in
+your document.

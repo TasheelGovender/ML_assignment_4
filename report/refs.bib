@@ -1,0 +1,147 @@
+@article{https://doi.org/10.1002/widm.1249,
+author = {Sagi, Omer and Rokach, Lior},
+title = {Ensemble learning: A survey},
+journal = {WIREs Data Mining and Knowledge Discovery},
+volume = {8},
+number = {4},
+pages = {e1249},
+keywords = {boosting, classifier combination, ensemble models, machine-learning, mixtures of experts, multiple classifier system, random forest},
+doi = {https://doi.org/10.1002/widm.1249},
+url = {https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1249},
+eprint = {https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1249},
+abstract = {Ensemble methods are considered the state-of-the art solution for many machine learning challenges. Such methods improve the predictive performance of a single model by training multiple models and combining their predictions. This paper introduce the concept of ensemble learning, reviews traditional, novel and state-of-the-art ensemble methods and discusses current challenges and trends in the field. This article is categorized under: Algorithmic Development > Ensemble Methods Technologies > Machine Learning Technologies > Classification},
+year = {2018}
+}
+
+@article{10.1162/neco.1997.9.7.1545,
+    author = {Amit, Yali and Geman, Donald},
+    title = {Shape Quantization and Recognition with Randomized Trees},
+    journal = {Neural Computation},
+    volume = {9},
+    number = {7},
+    pages = {1545-1588},
+    year = {1997},
+    month = {07},
+    abstract = {We explore a new approach to shape recognition based on a virtually infinite family of binary features (queries) of the image data, designed to accommodate prior information about shape invariance and regularity. Each query corresponds to a spatial arrangement of several local topographic codes (or tags), which are in themselves too primitive and common to be informative about shape. All the discriminating power derives from relative angles and distances among the tags. The important attributes of the queries are a natural partial ordering corresponding to increasing structure and complexity; semi-invariance, meaning that most shapes of a given class will answer the same way to two queries that are successive in the ordering; and stability, since the queries are not based on distinguished points and substructures.No classifier based on the full feature set can be evaluated, and it is impossible to determine a priori which arrangements are informative. Our approach is to select informative features and build tree classifiers at the same time by inductive learning. In effect, each tree provides an approximation to the full posterior where the features chosen depend on the branch that is traversed. Due to the number and nature of the queries, standard decision tree construction based on a fixed-length feature vector is not feasible. Instead we entertain only a small random sample of queries at each node, constrain their complexity to increase with tree depth, and grow multiple trees. The terminal nodes are labeled by estimates of the corresponding posterior distribution over shape classes. An image is classified by sending it down every tree and aggregating the resulting distributions.The method is applied to classifying handwritten digits and synthetic linear and nonlinear deformations of three hundred  symbols. State-of-the-art error rates are achieved on the National Institute of Standards and Technology database of digits. The principal goal of the experiments on  symbols is to analyze invariance, generalization error and related issues, and a comparison with artificial neural networks methods is presented in this context.Figure 1:LATEX Symbol},
+    issn = {0899-7667},
+    doi = {10.1162/neco.1997.9.7.1545},
+    url = {https://doi.org/10.1162/neco.1997.9.7.1545},
+    eprint = {https://direct.mit.edu/neco/article-pdf/9/7/1545/813779/neco.1997.9.7.1545.pdf},
+}
+
+@article{Breiman2001,
+  author = {Breiman, Leo},
+  title = {Random Forests},
+  journal = {Machine Learning},
+  volume = {45},
+  number = {1},
+  pages = {5--32},
+  year = {2001},
+  doi = {10.1023/A:1010933404324},
+  url = {https://doi.org/10.1023/A:1010933404324},
+  issn = {1573-0565},
+  abstract = {Random forests are a combination of tree predictors such that each tree depends on the values of a random vector sampled independently and with the same distribution for all trees in the forest. The generalization error for forests converges a.s. to a limit as the number of trees in the forest becomes large. The generalization error of a forest of tree classifiers depends on the strength of the individual trees in the forest and the correlation between them. Using a random selection of features to split each node yields error rates that compare favorably to Adaboost (Y. Freund & R. Schapire, Machine Learning: Proceedings of the Thirteenth International conference, ***, 148–156), but are more robust with respect to noise. Internal estimates monitor error, strength, and correlation and these are used to show the response to increasing the number of features used in the splitting. Internal estimates are also used to measure variable importance. These ideas are also applicable to regression.}
+}
+
+@InProceedings{10.1007/978-3-642-31537-4_13,
+author="Oshiro, Thais Mayumi
+and Perez, Pedro Santoro
+and Baranauskas, Jos{\'e} Augusto",
+editor="Perner, Petra",
+title="How Many Trees in a Random Forest?",
+booktitle="Machine Learning and Data Mining in Pattern Recognition",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="154--168",
+abstract="Random Forest is a computationally efficient technique that can operate quickly over large datasets. It has been used in many recent research projects and real-world applications in diverse domains. However, the associated literature provides almost no directions about how many trees should be used to compose a Random Forest. The research reported here analyzes whether there is an optimal number of trees within a Random Forest, i.e., a threshold from which increasing the number of trees would bring no significant performance gain, and would only increase the computational cost. Our main conclusions are: as the number of trees grows, it does not always mean the performance of the forest is significantly better than previous forests (fewer trees), and doubling the number of trees is worthless. It is also possible to state there is a threshold beyond which there is no significant gain, unless a huge computational environment is available. In addition, it was found an experimental relationship for the AUC gain when doubling the number of trees in any forest. Furthermore, as the number of trees grows, the full set of attributes tend to be used within a Random Forest, which may not be interesting in the biomedical domain. Additionally, datasets' density-based metrics proposed here probably capture some aspects of the VC dimension on decision trees and low-density datasets may require large capacity machines whilst the opposite also seems to be true.",
+isbn="978-3-642-31537-4"
+}
+
+@article{Breiman1996,
+  author = {Breiman, Leo},
+  title = {Bagging predictors},
+  journal = {Machine Learning},
+  volume = {24},
+  number = {2},
+  pages = {123--140},
+  year = {1996},
+  doi = {10.1007/BF00058655},
+  url = {https://doi.org/10.1007/BF00058655},
+  issn = {1573-0565},
+  abstract = {Bagging predictors is a method for generating multiple versions of a predictor and using these to get an aggregated predictor. The aggregation averages over the versions when predicting a numerical outcome and does a plurality vote when predicting a class. The multiple versions are formed by making bootstrap replicates of the learning set and using these as new learning sets. Tests on real and simulated data sets using classification and regression trees and subset selection in linear regression show that bagging can give substantial gains in accuracy. The vital element is the instability of the prediction method. If perturbing the learning set can cause significant changes in the predictor constructed, then bagging can improve accuracy.}
+}
+
+@article{Buhlmann2002,
+  author = {B{\"u}hlmann, Peter and Yu, Bin},
+  title = {Analyzing Bagging},
+  journal = {The Annals of Statistics},
+  volume = {30},
+  number = {4},
+  pages = {927--961},
+  year = {2002},
+  month = {August},
+  doi = {10.1214/aos/1031689014},
+  url = {https://projecteuclid.org/euclid.aos/1031689014}
+}
+
+@inproceedings{Ho1995,
+  author = {Ho, Tin Kam},
+  title = {Random decision forests},
+  booktitle = {Proceedings of the 3rd International Conference on Document Analysis and Recognition},
+  pages = {278--282},
+  year = {1995},
+  address = {Piscataway, NJ},
+  publisher = {IEEE}
+}
+
+@article{Louppe2014,
+  author = {Louppe, Gilles},
+  title = {Understanding Random Forests: From Theory to Practice},
+  journal = {arXiv preprint arXiv:1407.7502},
+  year = {2014},
+  url = {https://arxiv.org/abs/1407.7502}
+}
+
+@article{Biau2016,
+  author = {Biau, Gérard and Scornet, Erwan},
+  title = {A random forest guided tour},
+  journal = {TEST},
+  volume = {25},
+  number = {2},
+  pages = {197--227},
+  year = {2016},
+  doi = {10.1007/s11749-016-0481-7},
+  url = {https://doi.org/10.1007/s11749-016-0481-7}
+}
+
+@article{Dua2019,
+  author = {Dua, Dheeru and Graff, Casey},
+  title = {UCI Machine Learning Repository},
+  year = {2019},
+  url = {http://archive.ics.uci.edu/ml},
+  note = {University of California, Irvine, School of Information and Computer Sciences}
+}
+
+@article{Dheeru2017adult,
+  author = {Dua, Dheeru and Graff, Casey},
+  title = {UCI Adult Data Set},
+  year = {2017},
+  url = {https://archive.ics.uci.edu/ml/datasets/adult},
+  note = {UCI Machine Learning Repository}
+}
+
+@article{Lichman2013wine,
+  author = {Lichman, M.},
+  title = {UCI Wine Data Set},
+  year = {2013},
+  url = {https://archive.ics.uci.edu/ml/datasets/wine},
+  note = {UCI Machine Learning Repository}
+}
+
+@article{LeCun1998mnist,
+  author = {LeCun, Yann and Cortes, Corinna and Burges, CJ},
+  title = {The MNIST Database of Handwritten Digits},
+  year = {1998},
+  url = {http://yann.lecun.com/exdb/mnist/}
+}
